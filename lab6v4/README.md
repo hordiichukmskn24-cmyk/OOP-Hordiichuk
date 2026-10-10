@@ -26,3 +26,4 @@
 Виконати у консолі з папки проєкту:
 ```bash
 dotnet run
+<img width="1745" height="1054" alt="image" src="https://github.com/user-attachments/assets/0a900f21-da39-4e65-8e47-6d0731d850bb" />
